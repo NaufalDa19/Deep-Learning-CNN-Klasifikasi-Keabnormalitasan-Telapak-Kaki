@@ -1,0 +1,1 @@
+# NaufalDa19-Deep-Learning-CNN-Klasifikasi-Keabnormalitasan-Telapak-Kaki
